@@ -16,7 +16,7 @@
 .movie-card {
     object-fit: contain;
     width: 100%;
-    max-height: 100px;
+    max-height: 200px;
     margin-bottom: 10px;
     transition: transform 450ms;
 }
@@ -30,5 +30,6 @@
 }
 
 .movie-card:hover {
-    transform: scale(1.08);
+    transform: scale(1.28);
+    
 }
