@@ -25,6 +25,7 @@
     height: 80px;
 }
 
+
 .banner-button {
     cursor: pointer;
     color: #fff;
@@ -38,6 +39,7 @@
     padding-top: 0.5rem;
     background-color: rgba(51, 51, 51, 0.5);
     padding-bottom: 0.5rem;
+    align-items: center;
 }
 .banner-button:hover {
     color: #000;
